@@ -193,3 +193,20 @@ section div:only-child {
 .lesson-three-task-thirteen li::after {
   content: ' ➤';
 }
+
+/* 
+:any-link {
+  background: blue;
+}
+
+:dir(ltr) {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+:host-context(h2) {
+  background-color: red;
+}
+
+h2:has(+ h2) {
+  background: blue;
+} */
